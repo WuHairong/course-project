@@ -1,0 +1,11 @@
+// ID: hwu27@
+// NAME: Hairong Wu
+//Assignment 1 , cmps-109
+//Time 7/5/2015
+//
+//
+/*
+  This program using class to manipulate a small yshell system. Tree is builded 
+to hold file or directory information.The commands such as make, mkdir, cat, 
+echo, ls, lsr, rm rmr, pwd, prompt are implement.  
+*/
